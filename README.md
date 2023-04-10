@@ -4,6 +4,8 @@ Creating a school website design in HTML and CSS involves designing a website th
 user-friendly, and provides the necessary information about the school. The goal is to create a website that
  is easy to navigate and provides a good user experience for parents, students, and teachers.
 
+
+
 ## Some common features of a school website design in HTML and CSS include:
 
 1. A homepage that showcases the school's mission, vision, and values, along with links to other pages on the website.
@@ -28,7 +30,8 @@ By using responsive design techniques in the HTML and CSS code, the school websi
 
 
 # Conclusion 
-`**School Website Full Design**` is an essential element of any website, providing important information and links while enhancing the overall user experience. By using responsive design techniques, you can ensure your footer looks great on any device, making your website more accessible and user-friendly.:+1: :tada:
+`**School Website Full Design**` is an essential element of any website, providing important information and links while enhancing the overall user experience. By using responsive design techniques, you can ensure your website looks great on any device, making your website more accessible and user-friendly.:+1: :tada:
+
 
 ```_________________________________________________________________________________________________
 ```
